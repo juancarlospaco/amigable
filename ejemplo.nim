@@ -7,7 +7,7 @@ _constante a = _verdadero
 _variable b = _falso
 _inmutable c = 42 _dividir 2
 
-_bloque `esto es un ejemplo`:
+_bloque:
   _imprimir 546
 
 _intentar:
