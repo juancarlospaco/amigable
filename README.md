@@ -57,6 +57,13 @@ curl -o ~/.config/nim/config.nims https://raw.githubusercontent.com/juancarlospa
 ```
 
 
+# Usa
+
+```console
+$ nim ejecuta archivo.nim
+```
+
+
 # Desinstala
 
 ```
