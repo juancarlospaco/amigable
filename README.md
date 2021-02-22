@@ -1,6 +1,6 @@
 # Amigable
 
-- Programar en Espanol para Latinos, Hispanos, Niños
+- Programar en Espanol para Latinos, Hispanos, Niños. Experimental.
 
 # Ejemplo
 
