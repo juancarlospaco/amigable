@@ -1,10 +1,3 @@
-# Amigable
-
-- Programar en Espanol para Latinos, Hispanos, Niños
-
-# Ejemplo
-
-```nim
 _importar strutils
 _exportar strutils
 
@@ -45,25 +38,3 @@ _funcion ejemplo(argumento: _texto): _texto =
 
 _cuando _principal:
   _imprimir ejemplo("Hola")
-
-```
-
-
-# Instala
-
-```
-mkdir ~/.config/nim/
-curl -o ~/.config/nim/config.nims
-```
-
-
-# Desinstala
-
-```
-rm ~/.config/nim/config.nims
-```
-
-
-# Requisitos
-
-- [Nim](https://nim-lang.org/install.html)
