@@ -53,7 +53,7 @@ _cuando _principal:
 
 ```
 mkdir ~/.config/nim/
-curl -o ~/.config/nim/config.nims
+curl -o ~/.config/nim/config.nims https://raw.githubusercontent.com/juancarlospaco/amigable/nim/config.nims
 ```
 
 
